@@ -1,4 +1,4 @@
-export default function Home() {
-    return <h1>This is mini World</h1>
-}
 
+export default function Home () {
+    return <h1>Hiii</h1>
+}
